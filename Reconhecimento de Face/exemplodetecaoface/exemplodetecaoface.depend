@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1495481754 source:c:\users\antonio\onedrive\aulas diversas\ccf 394\opencvexemplos\teste11\exemplodetecaoface\main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+
+1495492556 source:f:\aula23_05_2017\exemplodetecaoface\main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+
+1498487942 source:c:\users\kaio alves\desktop\exemplodetecaoface\main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+
+1498575738 source:c:\users\grafs\desktop\exemplodetecaoface\main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+
